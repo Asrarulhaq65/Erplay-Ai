@@ -1,0 +1,37 @@
+==================================================
+DAFTAR AKUN LOGIN - MINI ERP BY ARUL
+==================================================
+
+1. ID          : 1
+   Username    : superadmin
+   Nama Lengkap: Super Administrator
+   Role        : Super Admin
+   Status      : Aktif
+   Password    : superadmin123
+
+2. ID          : 2
+   Username    : kasir
+   Nama Lengkap: Kasir Utama
+   Role        : Kasir
+   Status      : Aktif
+   Password    : password
+
+3. ID          : 3
+   Username    : Firman
+   Nama Lengkap: Firman
+   Role        : Owner
+   Status      : Aktif
+   Password    : (Ditentukan saat pendaftaran/pembuatan)
+
+4. ID          : 4
+   Username    : Maman
+   Nama Lengkap: Maman
+   Role        : Admin Toko
+   Status      : Aktif
+   Password    : (Ditentukan saat pendaftaran/pembuatan)
+
+==================================================
+Catatan:
+- Password untuk 'superadmin' dan 'kasir' berasal dari database seeder default.
+- Jika perlu mereset password akun tertentu, Anda dapat meminta bantuan untuk update password di database.
+==================================================

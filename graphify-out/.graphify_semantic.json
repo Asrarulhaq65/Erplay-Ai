@@ -1,0 +1,4397 @@
+{
+  "nodes": [
+    {
+      "id": "product",
+      "label": "PRODUCT.md",
+      "file_type": "document",
+      "source_file": "PRODUCT.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "product_product",
+      "label": "Product",
+      "file_type": "document",
+      "source_file": "PRODUCT.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "product_register",
+      "label": "Register",
+      "file_type": "document",
+      "source_file": "PRODUCT.md",
+      "source_location": "L3",
+      "_origin": "ast"
+    },
+    {
+      "id": "product_users",
+      "label": "Users",
+      "file_type": "document",
+      "source_file": "PRODUCT.md",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "product_product_purpose",
+      "label": "Product Purpose",
+      "file_type": "document",
+      "source_file": "PRODUCT.md",
+      "source_location": "L18",
+      "_origin": "ast"
+    },
+    {
+      "id": "product_brand_personality",
+      "label": "Brand Personality",
+      "file_type": "document",
+      "source_file": "PRODUCT.md",
+      "source_location": "L28",
+      "_origin": "ast"
+    },
+    {
+      "id": "product_anti_references",
+      "label": "Anti-references",
+      "file_type": "document",
+      "source_file": "PRODUCT.md",
+      "source_location": "L37",
+      "_origin": "ast"
+    },
+    {
+      "id": "product_design_principles",
+      "label": "Design Principles",
+      "file_type": "document",
+      "source_file": "PRODUCT.md",
+      "source_location": "L44",
+      "_origin": "ast"
+    },
+    {
+      "id": "product_accessibility_inclusion",
+      "label": "Accessibility & Inclusion",
+      "file_type": "document",
+      "source_file": "PRODUCT.md",
+      "source_location": "L52",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme",
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_about_laravel",
+      "label": "About Laravel",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L10",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_learning_laravel",
+      "label": "Learning Laravel",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L24",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_agentic_development",
+      "label": "Agentic Development",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L32",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_contributing",
+      "label": "Contributing",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L44",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_code_of_conduct",
+      "label": "Code of Conduct",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L48",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_security_vulnerabilities",
+      "label": "Security Vulnerabilities",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L52",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_license",
+      "label": "License",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L56",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_01_project_overview",
+      "label": "01-PROJECT-OVERVIEW.md",
+      "file_type": "document",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_01_project_overview_01_project_overview",
+      "label": "01 – Project Overview",
+      "file_type": "document",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_01_project_overview_identitas_proyek",
+      "label": "Identitas Proyek",
+      "file_type": "document",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L3",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_01_project_overview_tech_stack_detail",
+      "label": "Tech Stack Detail",
+      "file_type": "document",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L19",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_01_project_overview_backend",
+      "label": "Backend",
+      "file_type": "document",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L21",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_01_project_overview_frontend",
+      "label": "Frontend",
+      "file_type": "document",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L29",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_01_project_overview_dependensi_composer_production",
+      "label": "Dependensi Composer (Production)",
+      "file_type": "document",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L38",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_01_project_overview_dependensi_composer_dev",
+      "label": "Dependensi Composer (Dev)",
+      "file_type": "document",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L44",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_01_project_overview_filosofi_desain",
+      "label": "Filosofi Desain",
+      "file_type": "document",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L55",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_01_project_overview_1_compact_dense_ui",
+      "label": "1. Compact & Dense UI",
+      "file_type": "document",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L57",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_01_project_overview_2_pastel_blue_color_palette",
+      "label": "2. Pastel Blue Color Palette",
+      "file_type": "document",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L60",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_01_project_overview_3_zero_trust_on_client",
+      "label": "3. Zero Trust on Client",
+      "file_type": "document",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L68",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_01_project_overview_4_keyboard_driven_pos",
+      "label": "4. Keyboard-Driven POS",
+      "file_type": "document",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L71",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_01_project_overview_5_absolute_multi_tenant_isolation",
+      "label": "5. Absolute Multi-Tenant Isolation",
+      "file_type": "document",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L74",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_01_project_overview_struktur_direktori_proyek",
+      "label": "Struktur Direktori Proyek",
+      "file_type": "document",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L79",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_01_project_overview_akun_default_dari_seeder",
+      "label": "Akun Default (dari Seeder)",
+      "file_type": "document",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L154",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd",
+      "label": "02-PRD.md",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_02_product_requirements_document_prd",
+      "label": "02 – Product Requirements Document (PRD)",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_1_latar_belakang_tujuan_proyek",
+      "label": "1. Latar Belakang & Tujuan Proyek",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_masalah_yang_diselesaikan",
+      "label": "Masalah yang Diselesaikan",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L11",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_tujuan_utama",
+      "label": "Tujuan Utama",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L17",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_2_scope_modul_fitur",
+      "label": "2. Scope & Modul Fitur",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L26",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_module_1_tenant_rbac_role_based_access_control",
+      "label": "MODULE 1 – Tenant & RBAC (Role-Based Access Control)",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L28",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_1_1_manajemen_toko_tenant",
+      "label": "1.1 Manajemen Toko (Tenant)",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L30",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_1_2_manajemen_user_role",
+      "label": "1.2 Manajemen User & Role",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L38",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_1_3_roles_hak_akses",
+      "label": "1.3 Roles & Hak Akses",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L44",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_module_2_master_barang_inventaris",
+      "label": "MODULE 2 – Master Barang & Inventaris",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L58",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_2_1_hierarki_produk_2_level",
+      "label": "2.1 Hierarki Produk (2-Level)",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L60",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_2_2_data_produk",
+      "label": "2.2 Data Produk",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L70",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_2_3_fitur_ui_produk",
+      "label": "2.3 Fitur UI Produk",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L85",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_module_3_pelanggan_multi_tier_pricing",
+      "label": "MODULE 3 – Pelanggan & Multi-Tier Pricing",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L92",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_3_1_data_pelanggan",
+      "label": "3.1 Data Pelanggan",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L94",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_3_2_logika_harga_berdasarkan_status",
+      "label": "3.2 Logika Harga Berdasarkan Status",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L103",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_module_4_supplier_pembelian_barang_restock",
+      "label": "MODULE 4 – Supplier & Pembelian Barang (Restock)",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L116",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_4_1_data_supplier",
+      "label": "4.1 Data Supplier",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L118",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_4_2_faktur_pembelian",
+      "label": "4.2 Faktur Pembelian",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L121",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_4_3_automation_trigger_on_submit_faktur_pembelian",
+      "label": "4.3 Automation Trigger (On Submit Faktur Pembelian)",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L126",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_module_5_pos_point_of_sale_dual_mode",
+      "label": "MODULE 5 – POS (Point of Sale) – Dual Mode",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L134",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_5_1_mode_standard_pos_pos_standard",
+      "label": "5.1 Mode Standard POS (`/pos/standard`)",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L136",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_5_2_mode_custom_quick_entry_pos_pos_custom_utama",
+      "label": "5.2 Mode Custom Quick-Entry POS (`/pos/custom`) ← UTAMA",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L140",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_5_3_automation_trigger_on_submit_transaksi_pos",
+      "label": "5.3 Automation Trigger (On Submit Transaksi POS)",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L193",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_module_6_rekap_penjualan_sales_history",
+      "label": "MODULE 6 – Rekap Penjualan (Sales History)",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L204",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_6_1_filter_tersedia",
+      "label": "6.1 Filter Tersedia",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L206",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_6_2_kolom_tabel_rekap",
+      "label": "6.2 Kolom Tabel Rekap",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L211",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_module_7_keuangan_laporan_analitik",
+      "label": "MODULE 7 – Keuangan & Laporan Analitik",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L225",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_7_1_buku_kas_arus_kas",
+      "label": "7.1 Buku Kas (`arus_kas`)",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L227",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_7_2_dashboard_analytics_laporan_analytics",
+      "label": "7.2 Dashboard Analytics (`/laporan/analytics`)",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L234",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_7_3_rekap_penjualan_laporan_rekap_penjualan",
+      "label": "7.3 Rekap Penjualan (`/laporan/rekap-penjualan`)",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L244",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_module_8_inventory_management",
+      "label": "MODULE 8 – Inventory Management",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L250",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_8_1_stock_opname_inventory_opname",
+      "label": "8.1 Stock Opname (`/inventory/opname`)",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L252",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_8_2_log_stok_audit_trail",
+      "label": "8.2 Log Stok (Audit Trail)",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L256",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_module_9_cms_tenant_management_super_admin_only",
+      "label": "MODULE 9 – CMS Tenant Management (Super Admin Only)",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L262",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_02_prd_3_non_functional_requirements",
+      "label": "3. Non-Functional Requirements",
+      "file_type": "document",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L272",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_03_database_schema",
+      "label": "03-DATABASE-SCHEMA.md",
+      "file_type": "document",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_03_database_schema_03_database_schema",
+      "label": "03 – Database Schema",
+      "file_type": "document",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_03_database_schema_entity_relationship_overview",
+      "label": "Entity Relationship Overview",
+      "file_type": "document",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L8",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_03_database_schema_tabel_tabel_database",
+      "label": "Tabel-Tabel Database",
+      "file_type": "document",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L29",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_03_database_schema_1_toko_tenant_root",
+      "label": "1. `toko` (Tenant Root)",
+      "file_type": "document",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L31",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_03_database_schema_2_roles",
+      "label": "2. `roles`",
+      "file_type": "document",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L51",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_03_database_schema_3_users",
+      "label": "3. `users`",
+      "file_type": "document",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L68",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_03_database_schema_4_pelanggan",
+      "label": "4. `pelanggan`",
+      "file_type": "document",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L91",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_03_database_schema_5_supplier",
+      "label": "5. `supplier`",
+      "file_type": "document",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L110",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_03_database_schema_6_kelompok_produk_hierarki_level_1",
+      "label": "6. `kelompok_produk` (Hierarki Level 1)",
+      "file_type": "document",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L125",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_03_database_schema_7_kategori_produk_hierarki_level_2",
+      "label": "7. `kategori_produk` (Hierarki Level 2)",
+      "file_type": "document",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L137",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_03_database_schema_8_produk",
+      "label": "8. `produk`",
+      "file_type": "document",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L150",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_03_database_schema_9_pembelian_purchase_order_header",
+      "label": "9. `pembelian` (Purchase Order Header)",
+      "file_type": "document",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L181",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_03_database_schema_10_pembelian_detail_purchase_order_line_items",
+      "label": "10. `pembelian_detail` (Purchase Order Line Items)",
+      "file_type": "document",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L200",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_03_database_schema_11_penjualan_sales_transaction_header",
+      "label": "11. `penjualan` (Sales Transaction Header)",
+      "file_type": "document",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L215",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_03_database_schema_12_penjualan_detail_sales_line_items",
+      "label": "12. `penjualan_detail` (Sales Line Items)",
+      "file_type": "document",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L238",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_03_database_schema_13_arus_kas_cash_flow_ledger",
+      "label": "13. `arus_kas` (Cash Flow Ledger)",
+      "file_type": "document",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L255",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_03_database_schema_14_log_stok_stock_audit_trail_append_only",
+      "label": "14. `log_stok` (Stock Audit Trail – Append Only)",
+      "file_type": "document",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L276",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_03_database_schema_migration_order_penting",
+      "label": "Migration Order (Penting!)",
+      "file_type": "document",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L299",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_03_database_schema_cascade_delete_rules",
+      "label": "Cascade Delete Rules",
+      "file_type": "document",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L319",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_04_architecture",
+      "label": "04-ARCHITECTURE.md",
+      "file_type": "document",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_04_architecture_04_arsitektur_aplikasi",
+      "label": "04 – Arsitektur Aplikasi",
+      "file_type": "document",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_04_architecture_1_arsitektur_multi_tenancy",
+      "label": "1. Arsitektur Multi-Tenancy",
+      "file_type": "document",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_04_architecture_mekanisme_isolasi_eloquent_global_scope",
+      "label": "Mekanisme Isolasi: Eloquent Global Scope",
+      "file_type": "document",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L9",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_04_architecture_cara_bypass_global_scope_khusus_super_admin_seeder",
+      "label": "Cara Bypass Global Scope (Khusus Super Admin / Seeder)",
+      "file_type": "document",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L33",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_04_architecture_2_rbac_role_based_access_control",
+      "label": "2. RBAC (Role-Based Access Control)",
+      "file_type": "document",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L49",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_04_architecture_middleware_rolemiddleware",
+      "label": "Middleware: `RoleMiddleware`",
+      "file_type": "document",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L51",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_04_architecture_middleware_checksubscription",
+      "label": "Middleware: `CheckSubscription`",
+      "file_type": "document",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L64",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_04_architecture_tabel_matrix_akses",
+      "label": "Tabel Matrix Akses",
+      "file_type": "document",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L73",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_04_architecture_3_alur_autentikasi",
+      "label": "3. Alur Autentikasi",
+      "file_type": "document",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L90",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_04_architecture_login_flow",
+      "label": "Login Flow",
+      "file_type": "document",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L92",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_04_architecture_register_flow",
+      "label": "Register Flow",
+      "file_type": "document",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L112",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_04_architecture_4_arsitektur_request_lifecycle_pos_transaction",
+      "label": "4. Arsitektur Request Lifecycle (POS Transaction)",
+      "file_type": "document",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L133",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_04_architecture_5_arsitektur_front_end_pos_custom",
+      "label": "5. Arsitektur Front-End POS Custom",
+      "file_type": "document",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L184",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_04_architecture_ajax_endpoints_yang_digunakan_di_pos",
+      "label": "AJAX Endpoints yang Digunakan di POS",
+      "file_type": "document",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L206",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_04_architecture_6_dependency_injection_service_architecture",
+      "label": "6. Dependency Injection & Service Architecture",
+      "file_type": "document",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L217",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_04_architecture_7_konfigurasi_middleware_stack",
+      "label": "7. Konfigurasi Middleware Stack",
+      "file_type": "document",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L225",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_04_architecture_8_format_invoice",
+      "label": "8. Format Invoice",
+      "file_type": "document",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L235",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules",
+      "label": "05-MODULES.md",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_05_panduan_modul",
+      "label": "05 – Panduan Modul",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_modul_1_autentikasi",
+      "label": "Modul 1 – Autentikasi",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_controller",
+      "label": "Controller",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L9",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_view",
+      "label": "View",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L20",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_catatan_penting",
+      "label": "Catatan Penting",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L24",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_modul_2_dashboard",
+      "label": "Modul 2 – Dashboard",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L31",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_route",
+      "label": "Route",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L33",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_modul_3_master_produk",
+      "label": "Modul 3 – Master Produk",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L41",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_controller_43",
+      "label": "Controller",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L43",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_model_produk",
+      "label": "Model: `Produk`",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L61",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_view_79",
+      "label": "View",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L79",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_fitur_khusus",
+      "label": "Fitur Khusus",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L85",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_catatan_route_order_penting",
+      "label": "Catatan Route Order (Penting!)",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L103",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_modul_4_master_kelompok_kategori_produk",
+      "label": "Modul 4 – Master Kelompok & Kategori Produk",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L109",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_controller_111",
+      "label": "Controller",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L111",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_modul_5_master_pelanggan",
+      "label": "Modul 5 – Master Pelanggan",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L119",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_controller_121",
+      "label": "Controller",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L121",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_controller_ajax_pencarian_pos",
+      "label": "Controller AJAX (Pencarian POS)",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L129",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_modul_6_supplier",
+      "label": "Modul 6 – Supplier",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L140",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_modul_7_pembelian_restock",
+      "label": "Modul 7 – Pembelian (Restock)",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L147",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_controller_149",
+      "label": "Controller",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L149",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_alur_store",
+      "label": "Alur `store()`:",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L159",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_view_173",
+      "label": "View",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L173",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_modul_8_pos_point_of_sale",
+      "label": "Modul 8 – POS (Point of Sale)",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L178",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_controller_180",
+      "label": "Controller",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L180",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_view_pos",
+      "label": "View POS",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L189",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_controller_ajax_pencarian_produk",
+      "label": "Controller AJAX (Pencarian Produk)",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L193",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_konstanta_penting_di_penjualancontroller",
+      "label": "Konstanta Penting di PenjualanController",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L201",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_payload_json_yang_diterima_store",
+      "label": "Payload JSON yang Diterima `store()`",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L212",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_modul_9_rekap_penjualan",
+      "label": "Modul 9 – Rekap Penjualan",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L232",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_controller_234",
+      "label": "Controller",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L234",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_modul_10_analytics_dashboard",
+      "label": "Modul 10 – Analytics Dashboard",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L249",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_controller_251",
+      "label": "Controller",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L251",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_modul_11_stock_opname",
+      "label": "Modul 11 – Stock Opname",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L266",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_controller_268",
+      "label": "Controller",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L268",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_modul_12_user_management",
+      "label": "Modul 12 – User Management",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L280",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_controller_282",
+      "label": "Controller",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L282",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_modul_13_pengaturan_toko",
+      "label": "Modul 13 – Pengaturan Toko",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L297",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_controller_299",
+      "label": "Controller",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L299",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_modul_14_cms_tenant_management_super_admin_only",
+      "label": "Modul 14 – CMS Tenant Management (Super Admin Only)",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L311",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_controller_313",
+      "label": "Controller",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L313",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_modul_15_subscription_langganan",
+      "label": "Modul 15 – Subscription / Langganan",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L325",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_views",
+      "label": "Views",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L327",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_05_modules_middleware_checksubscription",
+      "label": "Middleware: `CheckSubscription`",
+      "file_type": "document",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L331",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_06_flow_diagram",
+      "label": "06-FLOW-DIAGRAM.md",
+      "file_type": "document",
+      "source_file": "docs/06-FLOW-DIAGRAM.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_06_flow_diagram_06_flow_diagram",
+      "label": "06 – Flow Diagram",
+      "file_type": "document",
+      "source_file": "docs/06-FLOW-DIAGRAM.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_06_flow_diagram_1_alur_login_autentikasi",
+      "label": "1. Alur Login & Autentikasi",
+      "file_type": "document",
+      "source_file": "docs/06-FLOW-DIAGRAM.md",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_06_flow_diagram_2_alur_pendaftaran_toko_baru",
+      "label": "2. Alur Pendaftaran Toko Baru",
+      "file_type": "document",
+      "source_file": "docs/06-FLOW-DIAGRAM.md",
+      "source_location": "L46",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_06_flow_diagram_3_alur_transaksi_pos_custom_quick_entry",
+      "label": "3. Alur Transaksi POS Custom (Quick-Entry)",
+      "file_type": "document",
+      "source_file": "docs/06-FLOW-DIAGRAM.md",
+      "source_location": "L76",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_06_flow_diagram_4_alur_pembelian_barang_restock",
+      "label": "4. Alur Pembelian Barang (Restock)",
+      "file_type": "document",
+      "source_file": "docs/06-FLOW-DIAGRAM.md",
+      "source_location": "L177",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_06_flow_diagram_5_alur_subscription_check",
+      "label": "5. Alur Subscription Check",
+      "file_type": "document",
+      "source_file": "docs/06-FLOW-DIAGRAM.md",
+      "source_location": "L218",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_06_flow_diagram_6_alur_stock_opname",
+      "label": "6. Alur Stock Opname",
+      "file_type": "document",
+      "source_file": "docs/06-FLOW-DIAGRAM.md",
+      "source_location": "L247",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_06_flow_diagram_7_alur_cms_kelola_langganan_toko_super_admin",
+      "label": "7. Alur CMS Kelola Langganan Toko (Super Admin)",
+      "file_type": "document",
+      "source_file": "docs/06-FLOW-DIAGRAM.md",
+      "source_location": "L267",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_07_api_reference",
+      "label": "07-API-REFERENCE.md",
+      "file_type": "document",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_07_api_reference_07_api_route_reference",
+      "label": "07 – API & Route Reference",
+      "file_type": "document",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_07_api_reference_konvensi",
+      "label": "Konvensi",
+      "file_type": "document",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_07_api_reference_1_route_publik_tidak_perlu_login",
+      "label": "1. Route Publik (Tidak Perlu Login)",
+      "file_type": "document",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L19",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_07_api_reference_2_route_auth_perlu_login",
+      "label": "2. Route Auth (Perlu Login)",
+      "file_type": "document",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L31",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_07_api_reference_2_1_umum_semua_role",
+      "label": "2.1 Umum (semua role)",
+      "file_type": "document",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L33",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_07_api_reference_2_2_cms_tenant_management",
+      "label": "2.2 CMS Tenant Management",
+      "file_type": "document",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L44",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_07_api_reference_2_3_pos_point_of_sale",
+      "label": "2.3 POS (Point of Sale)",
+      "file_type": "document",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L62",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_07_api_reference_2_4_pembelian_inventory_restock",
+      "label": "2.4 Pembelian (Inventory Restock)",
+      "file_type": "document",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L108",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_07_api_reference_2_5_inventory_management",
+      "label": "2.5 Inventory Management",
+      "file_type": "document",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L137",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_07_api_reference_2_6_laporan",
+      "label": "2.6 Laporan",
+      "file_type": "document",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L147",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_07_api_reference_2_7_master_data",
+      "label": "2.7 Master Data",
+      "file_type": "document",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L161",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_07_api_reference_master_produk",
+      "label": "Master Produk",
+      "file_type": "document",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L163",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_07_api_reference_master_kelompok_produk",
+      "label": "Master Kelompok Produk",
+      "file_type": "document",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L187",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_07_api_reference_master_kategori_produk",
+      "label": "Master Kategori Produk",
+      "file_type": "document",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L195",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_07_api_reference_master_pelanggan",
+      "label": "Master Pelanggan",
+      "file_type": "document",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L203",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_07_api_reference_2_8_pengaturan",
+      "label": "2.8 Pengaturan",
+      "file_type": "document",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L215",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_07_api_reference_3_ajax_internal_endpoints",
+      "label": "3. AJAX Internal Endpoints",
+      "file_type": "document",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L231",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions",
+      "label": "08-CONVENTIONS.md",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_08_konvensi_koding_aturan_wajib",
+      "label": "08 – Konvensi Koding & Aturan Wajib",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_aturan_kritis_jangan_dilanggar",
+      "label": "⚠️ ATURAN KRITIS (Jangan Dilanggar)",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L8",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_1_wajib_global_scope_di_setiap_model_baru",
+      "label": "1. WAJIB: Global Scope di Setiap Model Baru",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L10",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_2_wajib_semua_transaksi_pos_pembelian_dalam_db_transaction",
+      "label": "2. WAJIB: Semua Transaksi (POS & Pembelian) Dalam DB Transaction",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L35",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_3_wajib_lockforupdate_sebelum_baca_update_stok",
+      "label": "3. WAJIB: lockForUpdate() Sebelum Baca & Update Stok",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L50",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_4_wajib_backend_harus_validasi_ulang_harga_jangan_percaya_client",
+      "label": "4. WAJIB: Backend Harus Validasi Ulang Harga (Jangan Percaya Client)",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L57",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_5_dilarang_menggunakan_withoutglobalscopes_di_controller",
+      "label": "5. DILARANG: Menggunakan withoutGlobalScopes() di Controller",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L69",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_konvensi_penamaan_naming_conventions",
+      "label": "Konvensi Penamaan (Naming Conventions)",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L81",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_database_migration",
+      "label": "Database & Migration",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L83",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_model",
+      "label": "Model",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L93",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_controller",
+      "label": "Controller",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L102",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_route",
+      "label": "Route",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L111",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_view_blade",
+      "label": "View (Blade)",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L119",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_konvensi_ui_ux",
+      "label": "Konvensi UI/UX",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L129",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_1_wajib_gunakan_bootstrap_sm_variant",
+      "label": "1. Wajib Gunakan Bootstrap `-sm` Variant",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L131",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_2_warna_palette_wajib",
+      "label": "2. Warna Palette Wajib",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L143",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_3_low_stock_warning_tabel_produk",
+      "label": "3. Low-Stock Warning (Tabel Produk)",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L155",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_4_error_validasi_di_pos_visual_only_no_popup_alert",
+      "label": "4. Error/Validasi di POS — Visual Only, NO Popup Alert",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L161",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_5_format_angka_currency",
+      "label": "5. Format Angka (Currency)",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L172",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_konvensi_data",
+      "label": "Konvensi Data",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L188",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_format_nomor_invoice",
+      "label": "Format Nomor Invoice",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L190",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_format_kode_pelanggan",
+      "label": "Format Kode Pelanggan",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L197",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_harga_modal_last_cost_strategy",
+      "label": "Harga Modal: Last Cost Strategy",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L203",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_snapshot_harga_di_penjualan_detail",
+      "label": "Snapshot Harga di `penjualan_detail`",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L206",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_konvensi_error_handling",
+      "label": "Konvensi Error Handling",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L211",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_controller_yang_return_json_pos_pembelian",
+      "label": "Controller yang Return JSON (POS, Pembelian)",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L213",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_controller_yang_return_blade_view",
+      "label": "Controller yang Return Blade View",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L225",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_konvensi_seeder",
+      "label": "Konvensi Seeder",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L236",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_08_conventions_checklist_sebelum_menambah_fitur_baru",
+      "label": "Checklist Sebelum Menambah Fitur Baru",
+      "file_type": "document",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L260",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide",
+      "label": "09-DEVELOPMENT-GUIDE.md",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_09_panduan_pengembangan_development_guide",
+      "label": "09 – Panduan Pengembangan (Development Guide)",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_1_setup_lokal_laragon",
+      "label": "1. Setup Lokal (Laragon)",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_prasyarat",
+      "label": "Prasyarat",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_langkah_setup",
+      "label": "Langkah Setup",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_troubleshooting_setup",
+      "label": "Troubleshooting Setup",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L54",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_error_419_page_expired_saat_login",
+      "label": "Error: \"419 Page Expired\" saat Login",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L56",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_error_class_not_found_setelah_composer_install",
+      "label": "Error: \"Class not found\" setelah composer install",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L62",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_error_connection_refused_ke_database",
+      "label": "Error: \"Connection refused\" ke database",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L67",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_error_session_driver_database_tidak_ada_tabel_sessions",
+      "label": "Error: Session driver \"database\" tidak ada tabel `sessions`",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L71",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_2_artisan_commands_yang_sering_digunakan",
+      "label": "2. Artisan Commands yang Sering Digunakan",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L84",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_3_alur_pengembangan_fitur_baru",
+      "label": "3. Alur Pengembangan Fitur Baru",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L114",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_step_1_rencanakan_migrasi_jika_ada_tabel_baru",
+      "label": "Step 1: Rencanakan Migrasi (jika ada tabel baru)",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L116",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_step_2_buat_model",
+      "label": "Step 2: Buat Model",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L127",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_step_3_buat_controller",
+      "label": "Step 3: Buat Controller",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L166",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_step_4_tambahkan_route",
+      "label": "Step 4: Tambahkan Route",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L172",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_step_5_buat_view",
+      "label": "Step 5: Buat View",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L182",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_4_struktur_layout_utama",
+      "label": "4. Struktur Layout Utama",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L201",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_5_flash_messages",
+      "label": "5. Flash Messages",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L214",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_6_cara_menambah_role_baru",
+      "label": "6. Cara Menambah Role Baru",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L247",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_7_cara_menambah_metode_pembayaran_baru",
+      "label": "7. Cara Menambah Metode Pembayaran Baru",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L258",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_8_cara_test_manual_fitur_pos",
+      "label": "8. Cara Test Manual Fitur POS",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L279",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_9_akun_default_untuk_testing",
+      "label": "9. Akun Default untuk Testing",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L295",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_10_lokasi_file_penting",
+      "label": "10. Lokasi File Penting",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L306",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_11_known_issues_catatan",
+      "label": "11. Known Issues & Catatan",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L322",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_12_changelog_fitur",
+      "label": "12. Changelog Fitur",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L340",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_v1_1_2026_07_02",
+      "label": "v1.1 – 2026-07-02",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L342",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_export_import_produk_csv_modul_master_produk",
+      "label": "✅ Export & Import Produk CSV (Modul: Master Produk)",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L344",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_13_aturan_wajib_update_docs_setiap_ada_perubahan",
+      "label": "13. Aturan Wajib: Update Docs Setiap Ada Perubahan",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L366",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_file_docs_yang_harus_diupdate_sesuai_jenis_perubahan",
+      "label": "File Docs yang Harus Diupdate (sesuai jenis perubahan)",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L370",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_09_development_guide_format_entry_changelog",
+      "label": "Format Entry Changelog",
+      "file_type": "document",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L382",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_readme",
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "docs/README.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_readme_dokumentasi_proyek_retail_erp_by_arul",
+      "label": "📂 Dokumentasi Proyek – Retail ERP By Arul",
+      "file_type": "document",
+      "source_file": "docs/README.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_readme_daftar_dokumen",
+      "label": "📑 Daftar Dokumen",
+      "file_type": "document",
+      "source_file": "docs/README.md",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_readme_cara_membaca_dokumen_ini_untuk_ai_agent",
+      "label": "🚀 Cara Membaca Dokumen Ini (Untuk AI Agent)",
+      "file_type": "document",
+      "source_file": "docs/README.md",
+      "source_location": "L23",
+      "_origin": "ast"
+    },
+    {
+      "id": "prd",
+      "label": "prd.md",
+      "file_type": "document",
+      "source_file": "prd.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    }
+  ],
+  "edges": [
+    {
+      "source": "product",
+      "target": "product_product",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PRODUCT.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "product_product",
+      "target": "product_register",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PRODUCT.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "product_product",
+      "target": "product_users",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PRODUCT.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "product_product",
+      "target": "product_product_purpose",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PRODUCT.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "product_product",
+      "target": "product_brand_personality",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PRODUCT.md",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "product_product",
+      "target": "product_anti_references",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PRODUCT.md",
+      "source_location": "L37",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "product_product",
+      "target": "product_design_principles",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PRODUCT.md",
+      "source_location": "L44",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "product_product",
+      "target": "product_accessibility_inclusion",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PRODUCT.md",
+      "source_location": "L52",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme",
+      "target": "readme_about_laravel",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme",
+      "target": "readme_learning_laravel",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme",
+      "target": "readme_agentic_development",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L32",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme",
+      "target": "readme_contributing",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L44",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme",
+      "target": "readme_code_of_conduct",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L48",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme",
+      "target": "readme_security_vulnerabilities",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L52",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme",
+      "target": "readme_license",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L56",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_01_project_overview",
+      "target": "docs_01_project_overview_01_project_overview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_01_project_overview_01_project_overview",
+      "target": "docs_01_project_overview_identitas_proyek",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_01_project_overview_01_project_overview",
+      "target": "docs_01_project_overview_tech_stack_detail",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_01_project_overview_tech_stack_detail",
+      "target": "docs_01_project_overview_backend",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_01_project_overview_tech_stack_detail",
+      "target": "docs_01_project_overview_frontend",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L29",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_01_project_overview_tech_stack_detail",
+      "target": "docs_01_project_overview_dependensi_composer_production",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L38",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_01_project_overview_tech_stack_detail",
+      "target": "docs_01_project_overview_dependensi_composer_dev",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L44",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_01_project_overview_01_project_overview",
+      "target": "docs_01_project_overview_filosofi_desain",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L55",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_01_project_overview_filosofi_desain",
+      "target": "docs_01_project_overview_1_compact_dense_ui",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L57",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_01_project_overview_filosofi_desain",
+      "target": "docs_01_project_overview_2_pastel_blue_color_palette",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L60",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_01_project_overview_filosofi_desain",
+      "target": "docs_01_project_overview_3_zero_trust_on_client",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L68",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_01_project_overview_filosofi_desain",
+      "target": "docs_01_project_overview_4_keyboard_driven_pos",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L71",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_01_project_overview_filosofi_desain",
+      "target": "docs_01_project_overview_5_absolute_multi_tenant_isolation",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L74",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_01_project_overview_01_project_overview",
+      "target": "docs_01_project_overview_struktur_direktori_proyek",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L79",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_01_project_overview_01_project_overview",
+      "target": "docs_01_project_overview_akun_default_dari_seeder",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/01-PROJECT-OVERVIEW.md",
+      "source_location": "L154",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd",
+      "target": "docs_02_prd_02_product_requirements_document_prd",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_02_product_requirements_document_prd",
+      "target": "docs_02_prd_1_latar_belakang_tujuan_proyek",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_1_latar_belakang_tujuan_proyek",
+      "target": "docs_02_prd_masalah_yang_diselesaikan",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_1_latar_belakang_tujuan_proyek",
+      "target": "docs_02_prd_tujuan_utama",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_02_product_requirements_document_prd",
+      "target": "docs_02_prd_2_scope_modul_fitur",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L26",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_2_scope_modul_fitur",
+      "target": "docs_02_prd_module_1_tenant_rbac_role_based_access_control",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_module_1_tenant_rbac_role_based_access_control",
+      "target": "docs_02_prd_1_1_manajemen_toko_tenant",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L30",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_module_1_tenant_rbac_role_based_access_control",
+      "target": "docs_02_prd_1_2_manajemen_user_role",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L38",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_module_1_tenant_rbac_role_based_access_control",
+      "target": "docs_02_prd_1_3_roles_hak_akses",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L44",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_2_scope_modul_fitur",
+      "target": "docs_02_prd_module_2_master_barang_inventaris",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L58",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_module_2_master_barang_inventaris",
+      "target": "docs_02_prd_2_1_hierarki_produk_2_level",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L60",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_module_2_master_barang_inventaris",
+      "target": "docs_02_prd_2_2_data_produk",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L70",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_module_2_master_barang_inventaris",
+      "target": "docs_02_prd_2_3_fitur_ui_produk",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L85",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_2_scope_modul_fitur",
+      "target": "docs_02_prd_module_3_pelanggan_multi_tier_pricing",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L92",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_module_3_pelanggan_multi_tier_pricing",
+      "target": "docs_02_prd_3_1_data_pelanggan",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L94",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_module_3_pelanggan_multi_tier_pricing",
+      "target": "docs_02_prd_3_2_logika_harga_berdasarkan_status",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L103",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_2_scope_modul_fitur",
+      "target": "docs_02_prd_module_4_supplier_pembelian_barang_restock",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L116",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_module_4_supplier_pembelian_barang_restock",
+      "target": "docs_02_prd_4_1_data_supplier",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L118",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_module_4_supplier_pembelian_barang_restock",
+      "target": "docs_02_prd_4_2_faktur_pembelian",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L121",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_module_4_supplier_pembelian_barang_restock",
+      "target": "docs_02_prd_4_3_automation_trigger_on_submit_faktur_pembelian",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L126",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_2_scope_modul_fitur",
+      "target": "docs_02_prd_module_5_pos_point_of_sale_dual_mode",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L134",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_module_5_pos_point_of_sale_dual_mode",
+      "target": "docs_02_prd_5_1_mode_standard_pos_pos_standard",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L136",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_module_5_pos_point_of_sale_dual_mode",
+      "target": "docs_02_prd_5_2_mode_custom_quick_entry_pos_pos_custom_utama",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L140",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_module_5_pos_point_of_sale_dual_mode",
+      "target": "docs_02_prd_5_3_automation_trigger_on_submit_transaksi_pos",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L193",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_2_scope_modul_fitur",
+      "target": "docs_02_prd_module_6_rekap_penjualan_sales_history",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L204",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_module_6_rekap_penjualan_sales_history",
+      "target": "docs_02_prd_6_1_filter_tersedia",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L206",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_module_6_rekap_penjualan_sales_history",
+      "target": "docs_02_prd_6_2_kolom_tabel_rekap",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L211",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_2_scope_modul_fitur",
+      "target": "docs_02_prd_module_7_keuangan_laporan_analitik",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L225",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_module_7_keuangan_laporan_analitik",
+      "target": "docs_02_prd_7_1_buku_kas_arus_kas",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L227",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_module_7_keuangan_laporan_analitik",
+      "target": "docs_02_prd_7_2_dashboard_analytics_laporan_analytics",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L234",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_module_7_keuangan_laporan_analitik",
+      "target": "docs_02_prd_7_3_rekap_penjualan_laporan_rekap_penjualan",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L244",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_2_scope_modul_fitur",
+      "target": "docs_02_prd_module_8_inventory_management",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L250",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_module_8_inventory_management",
+      "target": "docs_02_prd_8_1_stock_opname_inventory_opname",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L252",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_module_8_inventory_management",
+      "target": "docs_02_prd_8_2_log_stok_audit_trail",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L256",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_2_scope_modul_fitur",
+      "target": "docs_02_prd_module_9_cms_tenant_management_super_admin_only",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L262",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_02_prd_02_product_requirements_document_prd",
+      "target": "docs_02_prd_3_non_functional_requirements",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/02-PRD.md",
+      "source_location": "L272",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_03_database_schema",
+      "target": "docs_03_database_schema_03_database_schema",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_03_database_schema_03_database_schema",
+      "target": "docs_03_database_schema_entity_relationship_overview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_03_database_schema_03_database_schema",
+      "target": "docs_03_database_schema_tabel_tabel_database",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L29",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_03_database_schema_tabel_tabel_database",
+      "target": "docs_03_database_schema_1_toko_tenant_root",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_03_database_schema_tabel_tabel_database",
+      "target": "docs_03_database_schema_2_roles",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L51",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_03_database_schema_tabel_tabel_database",
+      "target": "docs_03_database_schema_3_users",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L68",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_03_database_schema_tabel_tabel_database",
+      "target": "docs_03_database_schema_4_pelanggan",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L91",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_03_database_schema_tabel_tabel_database",
+      "target": "docs_03_database_schema_5_supplier",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L110",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_03_database_schema_tabel_tabel_database",
+      "target": "docs_03_database_schema_6_kelompok_produk_hierarki_level_1",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L125",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_03_database_schema_tabel_tabel_database",
+      "target": "docs_03_database_schema_7_kategori_produk_hierarki_level_2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L137",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_03_database_schema_tabel_tabel_database",
+      "target": "docs_03_database_schema_8_produk",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L150",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_03_database_schema_tabel_tabel_database",
+      "target": "docs_03_database_schema_9_pembelian_purchase_order_header",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L181",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_03_database_schema_tabel_tabel_database",
+      "target": "docs_03_database_schema_10_pembelian_detail_purchase_order_line_items",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L200",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_03_database_schema_tabel_tabel_database",
+      "target": "docs_03_database_schema_11_penjualan_sales_transaction_header",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L215",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_03_database_schema_tabel_tabel_database",
+      "target": "docs_03_database_schema_12_penjualan_detail_sales_line_items",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L238",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_03_database_schema_tabel_tabel_database",
+      "target": "docs_03_database_schema_13_arus_kas_cash_flow_ledger",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L255",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_03_database_schema_tabel_tabel_database",
+      "target": "docs_03_database_schema_14_log_stok_stock_audit_trail_append_only",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L276",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_03_database_schema_03_database_schema",
+      "target": "docs_03_database_schema_migration_order_penting",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L299",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_03_database_schema_03_database_schema",
+      "target": "docs_03_database_schema_cascade_delete_rules",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/03-DATABASE-SCHEMA.md",
+      "source_location": "L319",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_04_architecture",
+      "target": "docs_04_architecture_04_arsitektur_aplikasi",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_04_architecture_04_arsitektur_aplikasi",
+      "target": "docs_04_architecture_1_arsitektur_multi_tenancy",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_04_architecture_1_arsitektur_multi_tenancy",
+      "target": "docs_04_architecture_mekanisme_isolasi_eloquent_global_scope",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_04_architecture_1_arsitektur_multi_tenancy",
+      "target": "docs_04_architecture_cara_bypass_global_scope_khusus_super_admin_seeder",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_04_architecture_04_arsitektur_aplikasi",
+      "target": "docs_04_architecture_2_rbac_role_based_access_control",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L49",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_04_architecture_2_rbac_role_based_access_control",
+      "target": "docs_04_architecture_middleware_rolemiddleware",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L51",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_04_architecture_2_rbac_role_based_access_control",
+      "target": "docs_04_architecture_middleware_checksubscription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L64",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_04_architecture_2_rbac_role_based_access_control",
+      "target": "docs_04_architecture_tabel_matrix_akses",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L73",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_04_architecture_04_arsitektur_aplikasi",
+      "target": "docs_04_architecture_3_alur_autentikasi",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L90",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_04_architecture_3_alur_autentikasi",
+      "target": "docs_04_architecture_login_flow",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L92",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_04_architecture_3_alur_autentikasi",
+      "target": "docs_04_architecture_register_flow",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L112",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_04_architecture_04_arsitektur_aplikasi",
+      "target": "docs_04_architecture_4_arsitektur_request_lifecycle_pos_transaction",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L133",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_04_architecture_04_arsitektur_aplikasi",
+      "target": "docs_04_architecture_5_arsitektur_front_end_pos_custom",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L184",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_04_architecture_5_arsitektur_front_end_pos_custom",
+      "target": "docs_04_architecture_ajax_endpoints_yang_digunakan_di_pos",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L206",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_04_architecture_04_arsitektur_aplikasi",
+      "target": "docs_04_architecture_6_dependency_injection_service_architecture",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L217",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_04_architecture_04_arsitektur_aplikasi",
+      "target": "docs_04_architecture_7_konfigurasi_middleware_stack",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L225",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_04_architecture_04_arsitektur_aplikasi",
+      "target": "docs_04_architecture_8_format_invoice",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/04-ARCHITECTURE.md",
+      "source_location": "L235",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules",
+      "target": "docs_05_modules_05_panduan_modul",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_05_panduan_modul",
+      "target": "docs_05_modules_modul_1_autentikasi",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_1_autentikasi",
+      "target": "docs_05_modules_controller",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_1_autentikasi",
+      "target": "docs_05_modules_view",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_1_autentikasi",
+      "target": "docs_05_modules_catatan_penting",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_05_panduan_modul",
+      "target": "docs_05_modules_modul_2_dashboard",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_2_dashboard",
+      "target": "docs_05_modules_route",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_05_panduan_modul",
+      "target": "docs_05_modules_modul_3_master_produk",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L41",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_3_master_produk",
+      "target": "docs_05_modules_controller_43",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L43",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_3_master_produk",
+      "target": "docs_05_modules_model_produk",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L61",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_3_master_produk",
+      "target": "docs_05_modules_view_79",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L79",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_3_master_produk",
+      "target": "docs_05_modules_fitur_khusus",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L85",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_fitur_khusus",
+      "target": "docs_05_modules_catatan_route_order_penting",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L103",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_05_panduan_modul",
+      "target": "docs_05_modules_modul_4_master_kelompok_kategori_produk",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L109",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_4_master_kelompok_kategori_produk",
+      "target": "docs_05_modules_controller_111",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L111",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_05_panduan_modul",
+      "target": "docs_05_modules_modul_5_master_pelanggan",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L119",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_5_master_pelanggan",
+      "target": "docs_05_modules_controller_121",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L121",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_5_master_pelanggan",
+      "target": "docs_05_modules_controller_ajax_pencarian_pos",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L129",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_05_panduan_modul",
+      "target": "docs_05_modules_modul_6_supplier",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L140",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_05_panduan_modul",
+      "target": "docs_05_modules_modul_7_pembelian_restock",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L147",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_7_pembelian_restock",
+      "target": "docs_05_modules_controller_149",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L149",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_7_pembelian_restock",
+      "target": "docs_05_modules_alur_store",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L159",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_7_pembelian_restock",
+      "target": "docs_05_modules_view_173",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L173",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_05_panduan_modul",
+      "target": "docs_05_modules_modul_8_pos_point_of_sale",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L178",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_8_pos_point_of_sale",
+      "target": "docs_05_modules_controller_180",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L180",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_8_pos_point_of_sale",
+      "target": "docs_05_modules_view_pos",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L189",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_8_pos_point_of_sale",
+      "target": "docs_05_modules_controller_ajax_pencarian_produk",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L193",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_8_pos_point_of_sale",
+      "target": "docs_05_modules_konstanta_penting_di_penjualancontroller",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L201",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_8_pos_point_of_sale",
+      "target": "docs_05_modules_payload_json_yang_diterima_store",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L212",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_05_panduan_modul",
+      "target": "docs_05_modules_modul_9_rekap_penjualan",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L232",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_9_rekap_penjualan",
+      "target": "docs_05_modules_controller_234",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L234",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_05_panduan_modul",
+      "target": "docs_05_modules_modul_10_analytics_dashboard",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L249",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_10_analytics_dashboard",
+      "target": "docs_05_modules_controller_251",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L251",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_05_panduan_modul",
+      "target": "docs_05_modules_modul_11_stock_opname",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L266",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_11_stock_opname",
+      "target": "docs_05_modules_controller_268",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L268",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_05_panduan_modul",
+      "target": "docs_05_modules_modul_12_user_management",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L280",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_12_user_management",
+      "target": "docs_05_modules_controller_282",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L282",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_05_panduan_modul",
+      "target": "docs_05_modules_modul_13_pengaturan_toko",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L297",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_13_pengaturan_toko",
+      "target": "docs_05_modules_controller_299",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L299",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_05_panduan_modul",
+      "target": "docs_05_modules_modul_14_cms_tenant_management_super_admin_only",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L311",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_14_cms_tenant_management_super_admin_only",
+      "target": "docs_05_modules_controller_313",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L313",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_05_panduan_modul",
+      "target": "docs_05_modules_modul_15_subscription_langganan",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L325",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_15_subscription_langganan",
+      "target": "docs_05_modules_views",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L327",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_05_modules_modul_15_subscription_langganan",
+      "target": "docs_05_modules_middleware_checksubscription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/05-MODULES.md",
+      "source_location": "L331",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_06_flow_diagram",
+      "target": "docs_06_flow_diagram_06_flow_diagram",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/06-FLOW-DIAGRAM.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_06_flow_diagram_06_flow_diagram",
+      "target": "docs_06_flow_diagram_1_alur_login_autentikasi",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/06-FLOW-DIAGRAM.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_06_flow_diagram_06_flow_diagram",
+      "target": "docs_06_flow_diagram_2_alur_pendaftaran_toko_baru",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/06-FLOW-DIAGRAM.md",
+      "source_location": "L46",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_06_flow_diagram_06_flow_diagram",
+      "target": "docs_06_flow_diagram_3_alur_transaksi_pos_custom_quick_entry",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/06-FLOW-DIAGRAM.md",
+      "source_location": "L76",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_06_flow_diagram_06_flow_diagram",
+      "target": "docs_06_flow_diagram_4_alur_pembelian_barang_restock",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/06-FLOW-DIAGRAM.md",
+      "source_location": "L177",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_06_flow_diagram_06_flow_diagram",
+      "target": "docs_06_flow_diagram_5_alur_subscription_check",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/06-FLOW-DIAGRAM.md",
+      "source_location": "L218",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_06_flow_diagram_06_flow_diagram",
+      "target": "docs_06_flow_diagram_6_alur_stock_opname",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/06-FLOW-DIAGRAM.md",
+      "source_location": "L247",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_06_flow_diagram_06_flow_diagram",
+      "target": "docs_06_flow_diagram_7_alur_cms_kelola_langganan_toko_super_admin",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/06-FLOW-DIAGRAM.md",
+      "source_location": "L267",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_07_api_reference",
+      "target": "docs_07_api_reference_07_api_route_reference",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_07_api_reference_07_api_route_reference",
+      "target": "docs_07_api_reference_konvensi",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_07_api_reference_07_api_route_reference",
+      "target": "docs_07_api_reference_1_route_publik_tidak_perlu_login",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_07_api_reference_07_api_route_reference",
+      "target": "docs_07_api_reference_2_route_auth_perlu_login",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_07_api_reference_2_route_auth_perlu_login",
+      "target": "docs_07_api_reference_2_1_umum_semua_role",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_07_api_reference_2_route_auth_perlu_login",
+      "target": "docs_07_api_reference_2_2_cms_tenant_management",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L44",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_07_api_reference_2_route_auth_perlu_login",
+      "target": "docs_07_api_reference_2_3_pos_point_of_sale",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L62",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_07_api_reference_2_route_auth_perlu_login",
+      "target": "docs_07_api_reference_2_4_pembelian_inventory_restock",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L108",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_07_api_reference_2_route_auth_perlu_login",
+      "target": "docs_07_api_reference_2_5_inventory_management",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L137",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_07_api_reference_2_route_auth_perlu_login",
+      "target": "docs_07_api_reference_2_6_laporan",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L147",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_07_api_reference_2_route_auth_perlu_login",
+      "target": "docs_07_api_reference_2_7_master_data",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L161",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_07_api_reference_2_7_master_data",
+      "target": "docs_07_api_reference_master_produk",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L163",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_07_api_reference_2_7_master_data",
+      "target": "docs_07_api_reference_master_kelompok_produk",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L187",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_07_api_reference_2_7_master_data",
+      "target": "docs_07_api_reference_master_kategori_produk",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L195",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_07_api_reference_2_7_master_data",
+      "target": "docs_07_api_reference_master_pelanggan",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L203",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_07_api_reference_2_route_auth_perlu_login",
+      "target": "docs_07_api_reference_2_8_pengaturan",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L215",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_07_api_reference_07_api_route_reference",
+      "target": "docs_07_api_reference_3_ajax_internal_endpoints",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/07-API-REFERENCE.md",
+      "source_location": "L231",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions",
+      "target": "docs_08_conventions_08_konvensi_koding_aturan_wajib",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_08_konvensi_koding_aturan_wajib",
+      "target": "docs_08_conventions_aturan_kritis_jangan_dilanggar",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_aturan_kritis_jangan_dilanggar",
+      "target": "docs_08_conventions_1_wajib_global_scope_di_setiap_model_baru",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_aturan_kritis_jangan_dilanggar",
+      "target": "docs_08_conventions_2_wajib_semua_transaksi_pos_pembelian_dalam_db_transaction",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_aturan_kritis_jangan_dilanggar",
+      "target": "docs_08_conventions_3_wajib_lockforupdate_sebelum_baca_update_stok",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L50",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_aturan_kritis_jangan_dilanggar",
+      "target": "docs_08_conventions_4_wajib_backend_harus_validasi_ulang_harga_jangan_percaya_client",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L57",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_aturan_kritis_jangan_dilanggar",
+      "target": "docs_08_conventions_5_dilarang_menggunakan_withoutglobalscopes_di_controller",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L69",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_08_konvensi_koding_aturan_wajib",
+      "target": "docs_08_conventions_konvensi_penamaan_naming_conventions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L81",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_konvensi_penamaan_naming_conventions",
+      "target": "docs_08_conventions_database_migration",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L83",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_konvensi_penamaan_naming_conventions",
+      "target": "docs_08_conventions_model",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L93",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_konvensi_penamaan_naming_conventions",
+      "target": "docs_08_conventions_controller",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L102",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_konvensi_penamaan_naming_conventions",
+      "target": "docs_08_conventions_route",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L111",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_konvensi_penamaan_naming_conventions",
+      "target": "docs_08_conventions_view_blade",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L119",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_08_konvensi_koding_aturan_wajib",
+      "target": "docs_08_conventions_konvensi_ui_ux",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L129",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_konvensi_ui_ux",
+      "target": "docs_08_conventions_1_wajib_gunakan_bootstrap_sm_variant",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L131",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_konvensi_ui_ux",
+      "target": "docs_08_conventions_2_warna_palette_wajib",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L143",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_konvensi_ui_ux",
+      "target": "docs_08_conventions_3_low_stock_warning_tabel_produk",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L155",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_konvensi_ui_ux",
+      "target": "docs_08_conventions_4_error_validasi_di_pos_visual_only_no_popup_alert",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L161",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_konvensi_ui_ux",
+      "target": "docs_08_conventions_5_format_angka_currency",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L172",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_08_konvensi_koding_aturan_wajib",
+      "target": "docs_08_conventions_konvensi_data",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L188",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_konvensi_data",
+      "target": "docs_08_conventions_format_nomor_invoice",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L190",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_konvensi_data",
+      "target": "docs_08_conventions_format_kode_pelanggan",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L197",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_konvensi_data",
+      "target": "docs_08_conventions_harga_modal_last_cost_strategy",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L203",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_konvensi_data",
+      "target": "docs_08_conventions_snapshot_harga_di_penjualan_detail",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L206",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_08_konvensi_koding_aturan_wajib",
+      "target": "docs_08_conventions_konvensi_error_handling",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L211",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_konvensi_error_handling",
+      "target": "docs_08_conventions_controller_yang_return_json_pos_pembelian",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L213",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_konvensi_error_handling",
+      "target": "docs_08_conventions_controller_yang_return_blade_view",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L225",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_08_konvensi_koding_aturan_wajib",
+      "target": "docs_08_conventions_konvensi_seeder",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L236",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_08_conventions_08_konvensi_koding_aturan_wajib",
+      "target": "docs_08_conventions_checklist_sebelum_menambah_fitur_baru",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/08-CONVENTIONS.md",
+      "source_location": "L260",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide",
+      "target": "docs_09_development_guide_09_panduan_pengembangan_development_guide",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_09_panduan_pengembangan_development_guide",
+      "target": "docs_09_development_guide_1_setup_lokal_laragon",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_1_setup_lokal_laragon",
+      "target": "docs_09_development_guide_prasyarat",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_1_setup_lokal_laragon",
+      "target": "docs_09_development_guide_langkah_setup",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_1_setup_lokal_laragon",
+      "target": "docs_09_development_guide_troubleshooting_setup",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L54",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_troubleshooting_setup",
+      "target": "docs_09_development_guide_error_419_page_expired_saat_login",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L56",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_troubleshooting_setup",
+      "target": "docs_09_development_guide_error_class_not_found_setelah_composer_install",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L62",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_troubleshooting_setup",
+      "target": "docs_09_development_guide_error_connection_refused_ke_database",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L67",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_troubleshooting_setup",
+      "target": "docs_09_development_guide_error_session_driver_database_tidak_ada_tabel_sessions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L71",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_09_panduan_pengembangan_development_guide",
+      "target": "docs_09_development_guide_2_artisan_commands_yang_sering_digunakan",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L84",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_09_panduan_pengembangan_development_guide",
+      "target": "docs_09_development_guide_3_alur_pengembangan_fitur_baru",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L114",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_3_alur_pengembangan_fitur_baru",
+      "target": "docs_09_development_guide_step_1_rencanakan_migrasi_jika_ada_tabel_baru",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L116",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_3_alur_pengembangan_fitur_baru",
+      "target": "docs_09_development_guide_step_2_buat_model",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L127",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_3_alur_pengembangan_fitur_baru",
+      "target": "docs_09_development_guide_step_3_buat_controller",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L166",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_3_alur_pengembangan_fitur_baru",
+      "target": "docs_09_development_guide_step_4_tambahkan_route",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L172",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_3_alur_pengembangan_fitur_baru",
+      "target": "docs_09_development_guide_step_5_buat_view",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L182",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_09_panduan_pengembangan_development_guide",
+      "target": "docs_09_development_guide_4_struktur_layout_utama",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L201",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_09_panduan_pengembangan_development_guide",
+      "target": "docs_09_development_guide_5_flash_messages",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L214",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_09_panduan_pengembangan_development_guide",
+      "target": "docs_09_development_guide_6_cara_menambah_role_baru",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L247",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_09_panduan_pengembangan_development_guide",
+      "target": "docs_09_development_guide_7_cara_menambah_metode_pembayaran_baru",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L258",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_09_panduan_pengembangan_development_guide",
+      "target": "docs_09_development_guide_8_cara_test_manual_fitur_pos",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L279",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_09_panduan_pengembangan_development_guide",
+      "target": "docs_09_development_guide_9_akun_default_untuk_testing",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L295",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_09_panduan_pengembangan_development_guide",
+      "target": "docs_09_development_guide_10_lokasi_file_penting",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L306",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_09_panduan_pengembangan_development_guide",
+      "target": "docs_09_development_guide_11_known_issues_catatan",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L322",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_09_panduan_pengembangan_development_guide",
+      "target": "docs_09_development_guide_12_changelog_fitur",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L340",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_12_changelog_fitur",
+      "target": "docs_09_development_guide_v1_1_2026_07_02",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L342",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_v1_1_2026_07_02",
+      "target": "docs_09_development_guide_export_import_produk_csv_modul_master_produk",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L344",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_09_panduan_pengembangan_development_guide",
+      "target": "docs_09_development_guide_13_aturan_wajib_update_docs_setiap_ada_perubahan",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L366",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_13_aturan_wajib_update_docs_setiap_ada_perubahan",
+      "target": "docs_09_development_guide_file_docs_yang_harus_diupdate_sesuai_jenis_perubahan",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L370",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_09_development_guide_13_aturan_wajib_update_docs_setiap_ada_perubahan",
+      "target": "docs_09_development_guide_format_entry_changelog",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/09-DEVELOPMENT-GUIDE.md",
+      "source_location": "L382",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_readme",
+      "target": "docs_readme_dokumentasi_proyek_retail_erp_by_arul",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_readme_dokumentasi_proyek_retail_erp_by_arul",
+      "target": "docs_readme_daftar_dokumen",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/README.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_readme",
+      "target": "c_laragon_www_mini_erp_by_arul_docs_01_project_overview_md",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/README.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_readme",
+      "target": "c_laragon_www_mini_erp_by_arul_docs_02_prd_md",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/README.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_readme",
+      "target": "c_laragon_www_mini_erp_by_arul_docs_03_database_schema_md",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/README.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_readme",
+      "target": "c_laragon_www_mini_erp_by_arul_docs_04_architecture_md",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/README.md",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_readme",
+      "target": "c_laragon_www_mini_erp_by_arul_docs_05_modules_md",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/README.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_readme",
+      "target": "c_laragon_www_mini_erp_by_arul_docs_06_flow_diagram_md",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/README.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_readme",
+      "target": "c_laragon_www_mini_erp_by_arul_docs_07_api_reference_md",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/README.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_readme",
+      "target": "c_laragon_www_mini_erp_by_arul_docs_08_conventions_md",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/README.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_readme",
+      "target": "c_laragon_www_mini_erp_by_arul_docs_09_development_guide_md",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/README.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "docs_readme_dokumentasi_proyek_retail_erp_by_arul",
+      "target": "docs_readme_cara_membaca_dokumen_ini_untuk_ai_agent",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/README.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "_origin": "ast"
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}
