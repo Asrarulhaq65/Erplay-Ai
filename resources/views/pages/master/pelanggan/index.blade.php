@@ -71,9 +71,14 @@
             Kelola data pembeli, nomor kontak, serta penentuan tingkat harga otomatis di kasir POS.
         </p>
     </div>
-    <button class="btn btn-sm btn-pb px-3 py-2" data-bs-toggle="modal" data-bs-target="#modalTambah">
-        <i class="bi bi-plus-lg me-1" aria-hidden="true"></i>Tambah Pelanggan Baru
-    </button>
+    <div class="d-flex gap-2">
+        <a href="{{ route('master.pelanggan.import') }}" class="btn btn-sm btn-outline-success px-3 py-2">
+            <i class="bi bi-file-earmark-arrow-up me-1" aria-hidden="true"></i>Import Pelanggan
+        </a>
+        <button class="btn btn-sm btn-pb px-3 py-2" data-bs-toggle="modal" data-bs-target="#modalTambah">
+            <i class="bi bi-plus-lg me-1" aria-hidden="true"></i>Tambah Pelanggan Baru
+        </button>
+    </div>
 </div>
 
 <!-- Quick Customer Stat Summary Row -->

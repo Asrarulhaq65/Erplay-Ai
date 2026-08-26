@@ -3,6 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#0D4E56">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="ERPlay ERP">
+    <link rel="manifest" href="{{ asset('manifest.webmanifest') }}">
+    <link rel="apple-touch-icon" href="{{ asset('favicon.ico') }}">
     <title>Daftar Toko Baru — {{ config('app.name', 'ERPlay AI') }}</title>
     
     {{-- Bootstrap 5 --}}
@@ -457,5 +463,10 @@
         setupTogglePassword('togglePassword', 'password');
         setupTogglePassword('togglePasswordConfirm', 'password_confirmation');
     </script>
+<script>
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => navigator.serviceWorker.register('{{ asset('service-worker.js') }}'));
+    }
+</script>
 </body>
 </html>

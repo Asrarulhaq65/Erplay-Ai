@@ -1,0 +1,18 @@
+{
+    "name": "ERPlay Mini ERP",
+    "short_name": "ERPlay ERP",
+    "description": "Sistem manajemen retail ERPlay Mini ERP",
+    "start_url": "/dashboard",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#EEF2F7",
+    "theme_color": "#0D4E56",
+    "icons": [
+        {
+            "src": "/favicon.ico",
+            "sizes": "any",
+            "type": "image/x-icon"
+        }
+    ]
+}
