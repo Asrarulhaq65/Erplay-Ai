@@ -50,10 +50,33 @@
     [data-theme="dark"] .badge-tier-member { background: rgba(96, 165, 250, 0.15); color: #60A5FA; border-color: rgba(96, 165, 250, 0.25); }
     [data-theme="dark"] .badge-tier-rekan { background: rgba(192, 132, 252, 0.15); color: #C084FC; border-color: rgba(192, 132, 252, 0.25); }
     [data-theme="dark"] .badge-tier-motoris { background: rgba(251, 191, 36, 0.15); color: #FBBF24; border-color: rgba(251, 191, 36, 0.25); }
+
+    .tier-inline-select {
+        min-width: 92px;
+        width: auto;
+        margin: 0 auto;
+        padding: 3px 24px 3px 8px;
+        font-size: 11px;
+        font-weight: 600;
+        border-radius: 6px;
+        cursor: pointer;
+    }
+    .tier-inline-select:focus { box-shadow: 0 0 0 3px rgba(91, 160, 173, 0.2); }
 </style>
 @endpush
 
 @section('content')
+@if(session('import_errors') && count(session('import_errors')) > 0)
+    <div class="alert alert-warning py-2 px-3 mb-3" style="font-size:12px;">
+        <div class="fw-bold mb-1"><i class="bi bi-exclamation-triangle me-1"></i>Beberapa baris tidak diimport:</div>
+        <ul class="mb-0 ps-3">
+            @foreach(session('import_errors') as $importError)
+                <li>{{ $importError }}</li>
+            @endforeach
+        </ul>
+    </div>
+@endif
+
 <!-- Breadcrumb Navigation -->
 <nav class="erp-breadcrumb d-none d-md-block" aria-label="Breadcrumb">
     <a href="{{ url('/dashboard') }}" aria-label="Beranda Dashboard"><i class="bi bi-house-door"></i></a>
@@ -170,9 +193,15 @@
                         <td style="font-size:12px;"><i class="bi bi-telephone me-1 text-muted" aria-hidden="true"></i>{{ $plg->no_telepon }}</td>
                         <td class="text-truncate" style="max-width:220px;font-size:12px;" title="{{ $plg->alamat }}">{{ $plg->alamat ?? '-' }}</td>
                         <td class="text-center">
-                            <span class="badge {{ $badgeClass }}" style="font-size:11px;font-weight:600;">
-                                {{ $plg->status_pelanggan }}
-                            </span>
+                            <form action="{{ route('master.pelanggan.tier.update', $plg->id) }}" method="POST" class="d-inline">
+                                @csrf
+                                @method('PATCH')
+                                <select name="status_pelanggan" class="form-select form-select-sm tier-inline-select {{ $badgeClass }}" onchange="this.form.submit()" aria-label="Ubah tingkat harga {{ $plg->nama_pelanggan }}">
+                                    @foreach(['Umum', 'Member', 'Rekan', 'Motoris'] as $tier)
+                                        <option value="{{ $tier }}" @selected($plg->status_pelanggan === $tier)>{{ $tier }}</option>
+                                    @endforeach
+                                </select>
+                            </form>
                         </td>
                         <td class="text-center px-3">
                             <div class="d-flex align-items-center justify-content-center gap-1">

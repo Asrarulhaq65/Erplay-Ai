@@ -566,6 +566,33 @@
             color: #ADB5BD;
             font-size: 13px;
         }
+        @media (max-width: 768px) {
+            #pos-wrapper { height: auto; min-height: 100dvh; overflow: visible; }
+            #pos-topbar { padding: 8px 10px; flex-wrap: wrap; gap: 6px 10px; }
+            #pos-topbar > div:last-child { width: 100%; overflow-x: auto; justify-content: flex-start; gap: 6px !important; }
+            #pos-topbar .pos-meta { white-space: nowrap; }
+            #pos-topbar .pos-meta:nth-of-type(2), #pos-topbar .pos-meta:nth-of-type(3) { display: none; }
+            #pos-body { flex-direction: column; overflow: visible; }
+            #pos-left-col, #pos-payment-sidebar { width: 100%; overflow: visible; }
+            #pos-main { overflow: visible; }
+            #pos-customer-panel { flex-wrap: wrap; padding: 8px 10px; }
+            .customer-search-wrap { flex: 1 1 calc(100% - 36px); width: auto; }
+            #customerTierBadge { margin-left: 24px; }
+            #pos-entry-bar { flex-wrap: wrap; padding: 8px 10px; }
+            .product-search-wrap { flex: 1 1 calc(100% - 30px); max-width: none; }
+            .qty-wrap { width: calc(50% - 4px); }
+            #addBtn { flex: 1; }
+            #pos-cart-area { overflow-x: auto; padding: 10px; }
+            .cart-table { min-width: 700px; }
+            #pos-payment-sidebar { border-left: 0; border-top: 2px solid var(--pb-light); padding: 12px 10px 24px; }
+        }
+
+        @media (max-width: 420px) {
+            #pos-topbar .pos-title { font-size: 12px; }
+            #pos-topbar .badge { display: none; }
+            #pos-topbar > div:last-child a, #pos-topbar > div:last-child button { white-space: nowrap; }
+            .price-mode-badge { max-width: 100%; overflow: hidden; text-overflow: ellipsis; }
+        }
     </style>
 </head>
 

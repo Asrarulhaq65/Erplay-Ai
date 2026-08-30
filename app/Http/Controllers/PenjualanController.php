@@ -248,7 +248,7 @@ class PenjualanController extends Controller
             $result = DB::transaction(function () use (
                 $validated, $resolvedItems, $totalHarga, $diskon, $totalBayar,
                 $nominalUang, $kembalian, $metodePembayaran, $statusPembayaran,
-                $statusPelanggan
+                $statusPelanggan, $uangMuka, $sisaPiutang, $tanggalJatuhTempo
             ) {
                 // ── 3a. Generate globally unique nomor_invoice ─────────────
                 $nomorInvoice = $this->generateNomorInvoice();

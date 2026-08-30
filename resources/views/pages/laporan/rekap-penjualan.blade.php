@@ -77,6 +77,24 @@
         color: #FBBF24;
         border-color: rgba(251, 191, 36, 0.25);
     }
+
+    /* Bootstrap's warning row inherits light table text in dark mode. */
+    [data-theme="dark"] .table-warning,
+    [data-theme="dark"] .table-warning > td,
+    [data-theme="dark"] .table-warning > th {
+        --bs-table-color: #3F2A00;
+        --bs-table-bg: #FFF1C2;
+        --bs-table-border-color: #E8C96A;
+        color: #3F2A00 !important;
+    }
+    [data-theme="dark"] .table-warning a,
+    [data-theme="dark"] .table-warning .text-secondary,
+    [data-theme="dark"] .table-warning .text-muted {
+        color: #5C4300 !important;
+    }
+    [data-theme="dark"] .table-warning .text-primary {
+        color: #075985 !important;
+    }
 </style>
 @endpush
 

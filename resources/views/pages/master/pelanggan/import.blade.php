@@ -26,7 +26,7 @@
                     <div class="mb-3">
                         <label for="customer_file" class="form-label fw-bold">File Excel / CSV <span class="text-danger">*</span></label>
                         <input type="file" name="customer_file" id="customer_file" class="form-control" accept=".xlsx,.csv,.txt" required>
-                        <div class="form-text">Mendukung Excel XLSX serta CSV/TXT dengan pemisah koma, titik koma, atau tab.</div>
+                        <div class="form-text">Ukuran maksimum 10 MB. XLSX serta CSV/TXT dengan pemisah koma, titik koma, atau tab dibaca otomatis; kolom data tidak dipaksa lengkap.</div>
                     </div>
                     <div class="mb-4">
                         <label for="default_tier" class="form-label fw-bold">Tandai Tier Default <span class="text-danger">*</span></label>
@@ -35,7 +35,7 @@
                                 <option value="{{ $tier }}" @selected($tier === 'Umum')>{{ $tier }}</option>
                             @endforeach
                         </select>
-                        <div class="form-text">Aksi ini menandai setiap baris yang jenis/tier-nya kosong atau tidak dikenali.</div>
+                        <div class="form-text">Dipakai hanya jika kolom tier kosong atau tidak dikenali. Data lain tetap diimport secara fleksibel.</div>
                     </div>
                     <button type="submit" class="btn btn-success px-4"><i class="bi bi-check2-circle me-1"></i>Proses Import</button>
                 </form>
@@ -46,7 +46,7 @@
         <div class="card card-erp shadow-sm">
             <div class="card-header py-3 px-4"><strong><i class="bi bi-table me-2 text-primary"></i>Kolom yang Didukung</strong></div>
             <div class="card-body p-4" style="font-size:12.5px;">
-                <p class="text-secondary">Header tidak sensitif terhadap huruf besar/kecil.</p>
+                <p class="text-secondary">Header tidak sensitif terhadap huruf besar/kecil. Kolom tidak wajib; data kosong akan diisi aman oleh sistem.</p>
                 <div class="table-responsive">
                     <table class="table table-sm align-middle">
                         <thead><tr><th>Kolom</th><th>Wajib</th><th>Alias</th></tr></thead>

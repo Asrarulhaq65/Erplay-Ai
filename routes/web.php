@@ -199,6 +199,7 @@ Route::prefix('master')->name('master.')->group(function () {
     Route::middleware(['role:Super Admin,Owner,Admin Toko'])->group(function () {
         Route::get('pelanggan/import', [PelangganController::class, 'importForm'])->name('pelanggan.import');
         Route::post('pelanggan/import', [PelangganController::class, 'import'])->name('pelanggan.import.process');
+        Route::patch('pelanggan/{pelanggan}/tier', [PelangganController::class, 'updateTier'])->name('pelanggan.tier.update');
         Route::resource('pelanggan', PelangganController::class)->except(['show', 'create', 'edit']);
         Route::resource('supplier', App\Http\Controllers\SupplierController::class)->except(['show', 'create', 'edit']);
     });

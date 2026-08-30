@@ -58,6 +58,15 @@
             font-size: 15px; transition: all 0.2s; padding: 0;
         }
         .nav-theme-toggle:hover { background: var(--bg-card-hover); color: var(--pb-dark); }
+
+        @media (max-width: 575.98px) {
+            .erp-navbar { padding-left: 8px; padding-right: 8px; }
+            .erp-navbar .navbar-brand { max-width: 70vw; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+            .erp-navbar .navbar-collapse { padding-top: 8px; }
+            .erp-navbar .dropdown-menu { border: 0; box-shadow: none; padding-left: 10px; }
+            main.container, .container { padding-left: 10px; padding-right: 10px; }
+            .table-responsive { -webkit-overflow-scrolling: touch; }
+        }
     </style>
 </head>
 <body>

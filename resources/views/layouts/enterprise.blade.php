@@ -579,9 +579,10 @@
         <button class="topbar-btn" id="darkModeToggle" title="Tema Gelap / Terang" aria-label="Toggle Dark Mode">
             <i class="bi bi-moon-stars" id="darkModeIcon" aria-hidden="true"></i>
         </button>
-        <button class="topbar-btn" title="Notifikasi" aria-label="Notifikasi">
+        <a href="{{ route('admin.self-service.index') }}" class="topbar-btn position-relative" title="Pesanan Self-Service" aria-label="Pesanan Self-Service">
             <i class="bi bi-bell" aria-hidden="true"></i>
-        </button>
+            <span id="globalSelfServiceBadge" class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger" style="display:none;font-size:9px;">0</span>
+        </a>
 
         <div class="topbar-user dropdown">
             <div class="topbar-user" data-bs-toggle="dropdown" aria-expanded="false">
@@ -937,6 +938,10 @@
     }
 
     function toggleSidebar() {
+        if (window.innerWidth < 992) {
+            body.classList.toggle('sidebar-mobile-open');
+            return;
+        }
         body.classList.toggle('sidebar-collapsed');
         localStorage.setItem(SB_KEY, body.classList.contains('sidebar-collapsed') ? '1' : '0');
     }
@@ -944,6 +949,15 @@
     if (toggle) {
         toggle.addEventListener('click', toggleSidebar);
     }
+
+    document.querySelectorAll('.erp-sidebar a').forEach(function(link) {
+        link.addEventListener('click', function() {
+            if (window.innerWidth < 992) body.classList.remove('sidebar-mobile-open');
+        });
+    });
+    window.addEventListener('resize', function() {
+        if (window.innerWidth >= 992) body.classList.remove('sidebar-mobile-open');
+    });
 
     document.querySelectorAll('.sidebar-submenu .sidebar-item').forEach(function(item) {
         item.addEventListener('click', function(e) {
@@ -1014,6 +1028,26 @@
 })();
 </script>
     @stack('scripts')
+    <script>
+        (() => {
+            const badge = document.getElementById('globalSelfServiceBadge');
+            if (!badge) return;
+            const refreshSelfServiceBadge = async () => {
+                try {
+                    const response = await fetch('{{ route('admin.self-service.pending-count') }}', { headers: { Accept: 'application/json' } });
+                    if (!response.ok) return;
+                    const data = await response.json();
+                    const count = Number(data.pending_count || 0);
+                    badge.textContent = count > 99 ? '99+' : count;
+                    badge.style.display = count > 0 ? 'inline-block' : 'none';
+                } catch (_) {
+                    // Notification polling is non-critical to the current page.
+                }
+            };
+            refreshSelfServiceBadge();
+            setInterval(refreshSelfServiceBadge, 10000);
+        })();
+    </script>
     <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => navigator.serviceWorker.register('{{ asset('service-worker.js') }}'));

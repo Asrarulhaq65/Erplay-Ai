@@ -57,11 +57,10 @@ class PelangganController extends Controller
     public function import(Request $request): RedirectResponse
     {
         $validated = $request->validate([
-            'customer_file' => ['required', 'file', 'mimes:csv,txt,xlsx', 'max:10240'],
+            'customer_file' => ['required', 'file', 'max:10240'],
             'default_tier' => ['required', Rule::in(['Umum', 'Member', 'Rekan', 'Motoris'])],
         ], [
             'customer_file.required' => 'File pelanggan wajib dipilih.',
-            'customer_file.mimes' => 'File harus berupa CSV, TXT, atau Excel XLSX.',
             'default_tier.in' => 'Tier pelanggan tidak valid.',
         ]);
 
@@ -94,11 +93,15 @@ class PelangganController extends Controller
             $tier = $this->normalizeCustomerTier($data['status_pelanggan'] ?? $data['jenis_pelanggan'] ?? $data['tier'] ?? '')
                 ?: $validated['default_tier'];
 
-            if ($name === '' || $phone === '') {
+            // Name identifies the customer; rows without it are not imported.
+            if ($name === '') {
                 $skipped++;
-                $errors[] = "Baris {$rowNumber}: nama dan nomor telepon wajib diisi.";
+                $errors[] = "Baris {$rowNumber}: nama pelanggan wajib diisi.";
                 continue;
             }
+
+            // Other optional fields remain permissive and use safe schema values.
+            $phone = $phone !== '' ? $phone : '-';
 
             Pelanggan::create([
                 'kode_pelanggan' => $this->generateKodePelanggan(),
@@ -154,7 +157,7 @@ class PelangganController extends Controller
             $document = simplexml_load_string($xml);
             $document->registerXPathNamespace('x', 'http://schemas.openxmlformats.org/spreadsheetml/2006/main');
             foreach ($document->xpath('//x:si') as $item) {
-                $sharedStrings[] = implode('', array_map('strval', $item->xpath('.//x:t')));
+                $sharedStrings[] = $this->excelText($item);
             }
         }
 
@@ -176,7 +179,7 @@ class PelangganController extends Controller
                 if ((string) $cell['t'] === 's') {
                     $value = $sharedStrings[(int) $value] ?? '';
                 } elseif ((string) $cell['t'] === 'inlineStr') {
-                    $value = implode('', array_map('strval', $cell->xpath('.//x:t')));
+                    $value = $this->excelText($cell);
                 }
                 $row[$column] = $value;
             }
@@ -185,6 +188,13 @@ class PelangganController extends Controller
                 yield array_values($row);
             }
         }
+    }
+
+    private function excelText(\SimpleXMLElement $node): string
+    {
+        $node->registerXPathNamespace('x', 'http://schemas.openxmlformats.org/spreadsheetml/2006/main');
+
+        return implode('', array_map('strval', $node->xpath('.//x:t') ?: []));
     }
 
     private function excelColumnNumber(string $letters): int
@@ -271,6 +281,18 @@ class PelangganController extends Controller
         return redirect()
             ->route('master.pelanggan.index')
             ->with('success', "Data pelanggan \"{$validated['nama_pelanggan']}\" berhasil diperbarui.");
+    }
+
+    /** Update only the POS price tier from the inline customer table control. */
+    public function updateTier(Request $request, Pelanggan $pelanggan): RedirectResponse
+    {
+        $validated = $request->validate([
+            'status_pelanggan' => ['required', Rule::in(['Umum', 'Member', 'Rekan', 'Motoris'])],
+        ]);
+
+        $pelanggan->update($validated);
+
+        return redirect()->back()->with('success', "Tier harga {$pelanggan->nama_pelanggan} berhasil diubah ke {$pelanggan->status_pelanggan}.");
     }
 
     /**
