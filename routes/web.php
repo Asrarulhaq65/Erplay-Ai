@@ -186,6 +186,8 @@ Route::prefix('master')->name('master.')->group(function () {
         Route::get('produk/export-csv',        [App\Http\Controllers\ProdukImportExportController::class, 'exportCsv'])->name('produk.export-csv');
         Route::get('produk/download-template', [App\Http\Controllers\ProdukImportExportController::class, 'downloadTemplate'])->name('produk.download-template');
         Route::get('produk/panduan-export',    [App\Http\Controllers\ProdukImportExportController::class, 'panduanExport'])->name('produk.panduan-export');
+        // Alias untuk kompatibilitas view cache lama di VPS (panduan-import vs panduan-export)
+        Route::get('produk/panduan-import',    [App\Http\Controllers\ProdukImportExportController::class, 'panduanExport'])->name('produk.panduan-import');
 
         // ── Import CSV routes ────────────────────────────────────────────────
         Route::get('produk/import',  [App\Http\Controllers\ProdukImportExportController::class, 'showImport'])->name('produk.import');

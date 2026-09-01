@@ -181,35 +181,6 @@
             font-weight: 400;
         }
 
-        /* Quick fill badges for testing */
-        .quick-fill-title {
-            font-size: 11px;
-            font-weight: 700;
-            text-transform: uppercase;
-            letter-spacing: 0.06em;
-            color: rgba(255, 255, 255, 0.7);
-            margin-bottom: 8px;
-        }
-        .quick-fill-btn {
-            background: rgba(255, 255, 255, 0.12);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            color: #FFFFFF;
-            font-size: 11px;
-            font-weight: 600;
-            padding: 6px 12px;
-            border-radius: 8px;
-            cursor: pointer;
-            transition: all 0.2s;
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
-        }
-        .quick-fill-btn:hover {
-            background: rgba(255, 255, 255, 0.25);
-            color: #FFFFFF;
-            transform: translateY(-1px);
-        }
-
         /* ── Form Panel Right ────────────────────────────────────────── */
         .login-form-panel {
             flex: 1.3;
@@ -345,19 +316,6 @@
                     Sistem Kasir & Manajemen Retail Terintegrasi untuk efisiensi bisnis toko dan operasional usaha Anda.
                 </p>
             </div>
-
-            <!-- Quick Demo Credentials for Fast Testing -->
-            <div class="mt-4">
-                <div class="quick-fill-title"><i class="bi bi-lightning-charge me-1" aria-hidden="true"></i>Uji Coba Akun Demo:</div>
-                <div class="d-flex flex-wrap gap-2">
-                    <button type="button" class="quick-fill-btn" onclick="fillAccount('superadmin', 'superadmin123')">
-                        <i class="bi bi-shield-check" aria-hidden="true"></i> Super Admin
-                    </button>
-                    <button type="button" class="quick-fill-btn" onclick="fillAccount('kasir', 'password')">
-                        <i class="bi bi-cart-check" aria-hidden="true"></i> Kasir Toko
-                    </button>
-                </div>
-            </div>
         </div>
 
         <!-- Form Area Right -->
@@ -476,14 +434,6 @@
                 passwordInput.setAttribute('type', isPassword ? 'text' : 'password');
                 this.className = isPassword ? 'bi bi-eye input-icon-right' : 'bi bi-eye-slash input-icon-right';
             });
-        }
-
-        // ── Quick Fill Demo Account Helper ────────────────────────────────────
-        function fillAccount(username, password) {
-            const usernameInput = document.getElementById('username');
-            const passInput = document.getElementById('password');
-            if (usernameInput) usernameInput.value = username;
-            if (passInput) passInput.value = password;
         }
     </script>
 <script>

@@ -967,20 +967,33 @@
 
     /* ═══════════ ACCESSIBLE CONFIRM MODAL ═══════════ */
     (function() {
-        var forms = document.querySelectorAll('form[onsubmit*="confirm"]');
+        var forms = document.querySelectorAll('form[data-confirm], form[onsubmit*="confirm"]');
         forms.forEach(function(form) {
-            var match = form.getAttribute('onsubmit').match(/confirm\('([^']+)'\)/);
-            if (!match) return;
-            var message = match[1];
+            var message = form.getAttribute('data-confirm');
+            if (!message) {
+                var raw = form.getAttribute('onsubmit') || '';
+                var match = raw.match(/confirm\(\s*['\"](.*)['\"]\s*\)/);
+                message = match ? match[1] : null;
+            }
+            if (!message) return;
             form.removeAttribute('onsubmit');
+            form.removeAttribute('data-confirm');
+            // Keep message for modal via dataset
+            form.setAttribute('data-confirm-message', message);
             form.addEventListener('submit', function(e) {
                 e.preventDefault();
                 var modalEl = document.getElementById('confirmDeleteModal');
+                if (!modalEl) {
+                    if (confirm(form.getAttribute('data-confirm-message') || message)) form.submit();
+                    return;
+                }
                 var modal = new bootstrap.Modal(modalEl);
-                document.getElementById('confirmDeleteMessage').textContent = message;
+                var msgEl = document.getElementById('confirmDeleteMessage');
+                if (msgEl) msgEl.textContent = form.getAttribute('data-confirm-message') || message;
                 document.getElementById('confirmDeleteBtn').onclick = function() {
                     modal.hide();
-                    form.submit();
+                    // Use native submit to bypass this handler
+                    HTMLFormElement.prototype.submit.call(form);
                 };
                 modal.show();
             });

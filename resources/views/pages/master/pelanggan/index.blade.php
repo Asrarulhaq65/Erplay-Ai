@@ -211,7 +211,7 @@
                                         title="Edit Pelanggan">
                                     <i class="bi bi-pencil" aria-hidden="true"></i>
                                 </button>
-                                <form action="{{ route('master.pelanggan.destroy', $plg->id) }}" method="POST" class="d-inline" onsubmit="return confirm('Yakin ingin menghapus pelanggan {{ addslashes($plg->nama_pelanggan) }}?');">
+                                <form action="{{ route('master.pelanggan.destroy', $plg->id) }}" method="POST" class="d-inline" data-confirm="Yakin ingin menghapus pelanggan {{ $plg->nama_pelanggan }}?">
                                     @csrf
                                     @method('DELETE')
                                     <button type="submit" class="btn btn-sm btn-outline-danger py-1 px-2" title="Hapus Pelanggan">
